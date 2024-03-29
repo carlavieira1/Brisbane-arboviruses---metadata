@@ -8,6 +8,7 @@ All files contain three documents:
 3. Metadata in .txt
 
 - genome names format: >Virus_name|NCBI_code|species_from_which_the_virus_was_isolated|name_of_the_sequence|AustralianState_City|Year_Month_Day
+
 PS:sequences from other countries have the name of the country instead, these are: Fiji, PNG (Papua_New_Guinea), American_Samoa, Cook_Islands, and Malaysia
 Australian states are abbreviated as: NSW (New South Wales), QLD (Queensland), SA (South Australia), TS (Torres Strait Islands), VIC (Victoria), WA (Western Australia).
 
