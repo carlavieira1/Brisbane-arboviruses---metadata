@@ -1,0 +1,12 @@
+strain_name	virus	NCBI_code	host	AustralianState_city	year_month_day	lat	long	Genotype
+STRV|xxx|22_BrackenRidge|Ae_vigilax|QLD_Brisbane|2021_05_24	STRV	PP496992	Ae_vigilax	QLD_Brisbane	2021-05-24	-27.47	153.01	G2B
+STRV|xxx|76_Banyo|Ae_procax|QLD_Brisbane|2022_04_11	STRV	PP496993	Ae_procax	QLD_Brisbane	2022-04-11	-27.47	153.01	G2B
+STRV|xxx|158_BrackenRidge|Ae_procax|QLD_Brisbane|2022_01_05	STRV	PP496994	Ae_procax	QLD_Brisbane	2022-01-05	-27.47	153.01	G2B
+STRV|xxx|226_Banyo|Ae_procax|QLD_Brisbane|2022_02_03	STRV	PP496995	Ae_procax	QLD_Brisbane	2022-02-03	-27.47	153.01	G2B
+STRV|xxx|295_Corinda|Ae_procax|QLD_Brisbane|2022_02_02	STRV	PP496996	Ae_procax	QLD_Brisbane	2022-02-02	-27.47	153.01	G2B
+STRV|MZ358848|205081_Wishart|Ae_notoscriptus|QLD_Brisbane|2018_02_07	STRV	MZ358848	Ae_notoscriptus	QLD_Brisbane	2018-02-07	-27.47	153.01	G2A
+STRV|MZ358850|208799_TheGap|Ae_notoscriptus|QLD_Brisbane|2019_01_30	STRV	MZ358850	Ae_notoscriptus	QLD_Brisbane	2019-01-30	-27.47	153.01	G2A
+STRV|MZ358852|78701|Ae_vigilax|NSW|2006	STRV	MZ358852	Ae_vigilax	NSW	2006	-32.53	151.28	G2A
+STRV|MZ358849|209696_MtGravatt|Ae_notoscriptus|QLD_Brisbane|2019_05_01	STRV	MZ358849	Ae_notoscriptus	QLD_Brisbane	2019-05-01	-27.47	153.01	G2
+STRV|MZ358851|22911|Ae_vigilax|NSW|1995	STRV	MZ358851	Ae_vigilax	NSW	1995	-32.53	151.28	G2
+STRV|KM225263|C338|Ae_vigilax|QLD_Cairns|1961	STRV	KM225263	Ae_vigilax	QLD_Cairns	1961	-16.91	145.75	G1
