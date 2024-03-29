@@ -1,2 +1,3 @@
 # Brisbane-arboviruses---metadata
-Novel insights into endogenous RNA viral elements in Ixodes scapularis and other arbovirus vector genomes Russo et al. (2019) Virus Evolution  Supplementary files as referenced within the text
+Long-term co-circulation of multiple arboviruses in southeast Australia revealed by xeno-monitoring and metatranscriptomics
+Vieira et al. (2024) - in preparation. Metadata used in the phylogenetic analyses.
